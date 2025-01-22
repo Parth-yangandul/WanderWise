@@ -1,4 +1,4 @@
-# Flight Price Prediction
+# WanderWise
 
 ## Overview
 This project predicts the price of flights based on various input features such as departure and arrival times, flight duration, airline, source, destination, and the number of stops. The prediction is powered by a machine learning model trained on historical flight data.
